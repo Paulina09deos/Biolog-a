@@ -249,7 +249,7 @@
   <footer class="bg-green-700 text-white py-6 mt-20">
    <div class="container mx-auto px-6 text-center text-sm">
     <p>
-     © 2024 Biología Interactiva. Todos los derechos reservados.
+     © 2025 Biología Interactiva. Todos los derechos reservados.
     </p>
     <p class="mt-2">
      Síguenos en
