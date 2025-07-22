@@ -19,7 +19,7 @@
   <header class="bg-green-700 text-white shadow-md">
    <div class="container mx-auto px-6 py-4 flex flex-col md:flex-row items-center justify-between">
     <div class="flex items-center space-x-3">
-     <img alt="Logo de biología con un microscopio verde y hojas" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/3b886b08-5adc-4a40-5f7e-591b54827682.jpg" width="50"/>
+     <img alt="Logo de biología con un microscopio verde y hojas" class="w-12 h-12" height="50" src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=50&q=80" width="50"/>
      <h1 class="text-2xl font-bold">
       Biología Interactiva
      </h1>
@@ -58,7 +58,7 @@
   <main class="container mx-auto px-6 py-10 space-y-20">
    <!-- Sección Introducción -->
    <section class="bg-white rounded-lg shadow-lg p-8 flex flex-col md:flex-row items-center gap-8" id="introduccion">
-    <img alt="Ilustración científica colorida de organelos celulares en una célula, sin personas, con fondo claro" class="rounded-lg shadow-lg w-full md:w-1/2 h-64 object-cover" height="400" src="https://storage.googleapis.com/a1aa/image/87001293-35cf-4da6-94d5-1446a1dee5f6.jpg" width="600"/>
+    <img alt="Ilustración científica colorida de organelos celulares en una célula, sin personas, con fondo claro" class="rounded-lg shadow-lg w-full md:w-1/2 h-64 object-cover" height="400" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80" width="600"/>
     <div class="md:w-1/2 text-center md:text-left">
      <h2 class="text-3xl font-extrabold text-green-800 mb-4">
       Bienvenidos a la Realidad Aumentada en Biología
@@ -78,7 +78,7 @@
     </p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Ilustración detallada del núcleo celular con cromatina y nucleolo en colores vivos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/918bc75d-89c3-45eb-04c6-ae1b6dee6c57.jpg" width="400"/>
+      <img alt="Ilustración detallada del núcleo celular con cromatina y nucleolo en colores vivos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1542281286-9e0a16bb7366?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Núcleo
       </h3>
@@ -87,7 +87,7 @@
       </p>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Imagen microscópica de una mitocondria con crestas internas en tonos anaranjados y rojos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/5a9bf88a-2941-4db0-52e6-ab5262ccc41d.jpg" width="400"/>
+      <img alt="Imagen microscópica de una mitocondria con crestas internas en tonos anaranjados y rojos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1593642634367-d91a135587b5?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Mitocondria
       </h3>
@@ -96,7 +96,7 @@
       </p>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Representación gráfica de ribosomas adheridos al retículo endoplasmático rugoso en azul y gris" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/bff2039b-c7f7-4e12-5299-05fb7cf58797.jpg" width="400"/>
+      <img alt="Representación gráfica de ribosomas adheridos al retículo endoplasmático rugoso en azul y gris" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Ribosomas
       </h3>
@@ -105,7 +105,7 @@
       </p>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Ilustración del retículo endoplasmático rugoso y liso con ribosomas en la superficie rugosa" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/6c21dd86-172f-416b-598f-2586d1e54831.jpg" width="400"/>
+      <img alt="Ilustración del retículo endoplasmático rugoso y liso con ribosomas en la superficie rugosa" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Retículo Endoplasmático
       </h3>
@@ -114,7 +114,7 @@
       </p>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Dibujo esquemático del aparato de Golgi con vesículas en colores verdes y amarillos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/60059eab-e44b-4d13-7b7c-8e58a9bed9cb.jpg" width="400"/>
+      <img alt="Dibujo esquemático del aparato de Golgi con vesículas en colores verdes y amarillos" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Aparato de Golgi
       </h3>
@@ -123,7 +123,7 @@
       </p>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition">
-      <img alt="Imagen conceptual de lisosomas con enzimas digestivas en colores morados y lilas" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://storage.googleapis.com/a1aa/image/6233bd40-fe3a-4177-2726-16ed6092b525.jpg" width="400"/>
+      <img alt="Imagen conceptual de lisosomas con enzimas digestivas en colores morados y lilas" class="rounded mb-4 w-full h-48 object-cover" height="250" src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Lisosomas
       </h3>
@@ -142,7 +142,7 @@
      La realidad aumentada (RA) es una tecnología que permite superponer elementos digitales en el mundo real, facilitando el aprendizaje interactivo y visual de conceptos complejos como los organelos celulares.
     </p>
     <div class="flex flex-col md:flex-row items-center justify-center gap-10">
-     <img alt="Estudiante usando una tablet con una aplicación de realidad aumentada mostrando organelos celulares en 3D sobre una mesa" class="rounded-lg shadow-lg w-full max-w-md object-cover" height="300" src="https://storage.googleapis.com/a1aa/image/0fc6e86c-f9ab-4281-7e05-8876ae5b9905.jpg" width="400"/>
+     <img alt="Estudiante usando una tablet con una aplicación de realidad aumentada mostrando organelos celulares en 3D sobre una mesa" class="rounded-lg shadow-lg w-full max-w-md object-cover" height="300" src="https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=400&q=80" width="400"/>
      <div class="max-w-xl text-center md:text-left">
       <h3 class="text-2xl font-semibold text-green-900 mb-4">
        Explora los organelos en 3D
@@ -168,7 +168,7 @@
     </p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition flex flex-col">
-      <img alt="Captura de pantalla de un video educativo mostrando animaciones de organelos celulares" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://storage.googleapis.com/a1aa/image/0caa665c-98d5-40ba-76a2-bf5546a5587a.jpg" width="400"/>
+      <img alt="Captura de pantalla de un video educativo mostrando animaciones de organelos celulares" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://images.unsplash.com/photo-1492447166138-50c3889fccb1?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Video Animado: Organelos Celulares
       </h3>
@@ -182,7 +182,7 @@
       </a>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition flex flex-col">
-      <img alt="Pantalla de una aplicación móvil de realidad aumentada mostrando organelos celulares en 3D" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://storage.googleapis.com/a1aa/image/858f8a63-57b7-481f-10ce-240623fa3169.jpg" width="400"/>
+      <img alt="Pantalla de una aplicación móvil de realidad aumentada mostrando organelos celulares en 3D" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://images.unsplash.com/photo-1509475826633-fed577a2c71b?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        App de Realidad Aumentada
       </h3>
@@ -196,7 +196,7 @@
       </a>
      </article>
      <article class="bg-green-50 rounded-lg p-6 shadow hover:shadow-lg transition flex flex-col">
-      <img alt="Portada de un PDF con guía de estudio sobre organelos celulares y realidad aumentada" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://storage.googleapis.com/a1aa/image/9a2e928e-2346-4b04-5330-91bb44217b2e.jpg" width="400"/>
+      <img alt="Portada de un PDF con guía de estudio sobre organelos celulares y realidad aumentada" class="rounded mb-4 w-full h-40 object-cover" height="200" src="https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=400&q=80" width="400"/>
       <h3 class="text-xl font-semibold text-green-900 mb-2">
        Guía de Estudio PDF
       </h3>
